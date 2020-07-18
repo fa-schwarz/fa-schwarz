@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+Hey, my name is Fabian Schwarz and I'm a PhD Candidate at the [CISPA Helmholtz Center for Information Security](https://cispa.saarland/).
+My current research focus is on system security and the intersection between trusted computing and network security.
+I'm also interested in virtualization-based system designs and software/hardware interactions (e.g., MMIO, DMA).
+
+I'm the primary author of [SENG, the SGX-Enforcing Network Gateway](https://github.com/sengsgx) (USENIX Security '20).
 
 <!--
 **fa-schwarz/fa-schwarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
