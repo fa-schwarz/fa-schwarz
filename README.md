@@ -5,7 +5,9 @@ I'm also interested in virtualization-based system designs and software/hardware
 
 I'm the primary author of [SENG, the SGX-Enforcing Network Gateway](https://github.com/sengsgx) (USENIX Security '20).
 
-My new research paper on [TrustedGateway:](https://github.com/trugw) TEE-Assisted Routing and Firewall Enforcement Using ARM TrustZone (RAID '22) will soon be published.
+My new research paper on [TrustedGateway: TEE-Assisted Routing and Firewall Enforcement Using ARM TrustZone](https://github.com/trugw) will soon be published as part of the RAID'22 proceedings.
+
+Our most recent research paper on [FeIDo: Recoverable FIDO2 Tokens Using Electronic IDs](https://github.com/feido-token) will soon be published as part of the CCS '22 proceedings.
 
 <!--
 **fa-schwarz/fa-schwarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
